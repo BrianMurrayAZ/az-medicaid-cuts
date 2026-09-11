@@ -1,0 +1,14 @@
+Put these two files in THIS folder, with exactly these names:
+
+  CSPA_HR1_Medicaid_Impact_by_District.pdf
+  HR1_Medicaid_Impact_by_AZ_Legislative_District.xlsx
+
+Download them from the live site (open each link, then save):
+
+  https://az-medicaid-cuts.netlify.app/downloads/CSPA_HR1_Medicaid_Impact_by_District.pdf
+  https://az-medicaid-cuts.netlify.app/downloads/HR1_Medicaid_Impact_by_AZ_Legislative_District.xlsx
+
+Then delete this text file, and upload the whole az-medicaid-cuts-repo folder
+to GitHub (Add file > Upload files, then drag the folder in).
+
+Do not rename anything. The page links to these exact filenames.
